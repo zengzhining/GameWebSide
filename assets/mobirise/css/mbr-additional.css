@@ -1642,6 +1642,10 @@ body {
 .cid-qLBI89idrp .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qLBI89idrp .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qLBI89idrp .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qLBI89idrp .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qLBI89idrp .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1736,6 +1740,10 @@ body {
   .cid-qLBI89idrp .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-qLBI89idrp .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qLBI89idrp .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-qLBI89idrp .navbar-collapse.collapsing .navbar-buttons,
   .cid-qLBI89idrp .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1794,7 +1802,7 @@ body {
 }
 .cid-qLBI89idrp .nav-link:hover,
 .cid-qLBI89idrp .dropdown-item:hover {
-  color: #ffffff !important;
+  color: #232323 !important;
 }
 .cid-qOAyRvcMRs {
   background-color: #c4bc3b;
@@ -2050,6 +2058,10 @@ body {
 .cid-qLAH4rc1yt .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qLAH4rc1yt .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qLAH4rc1yt .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qLAH4rc1yt .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qLAH4rc1yt .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2144,6 +2156,10 @@ body {
   .cid-qLAH4rc1yt .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-qLAH4rc1yt .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qLAH4rc1yt .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-qLAH4rc1yt .navbar-collapse.collapsing .navbar-buttons,
   .cid-qLAH4rc1yt .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -2202,7 +2218,7 @@ body {
 }
 .cid-qLAH4rc1yt .nav-link:hover,
 .cid-qLAH4rc1yt .dropdown-item:hover {
-  color: #ffffff !important;
+  color: #232323 !important;
 }
 .cid-qLAScUDKDy {
   padding-top: 30px;
