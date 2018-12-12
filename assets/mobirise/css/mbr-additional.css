@@ -1444,6 +1444,84 @@ body {
     text-align: center;
   }
 }
+.cid-rc0eFXOfGb {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #0f7699;
+}
+.cid-rc0eFXOfGb .row-links {
+  width: 100%;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rc0eFXOfGb .social-row {
+  width: 100%;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rc0eFXOfGb .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
+  -webkit-align-items: center;
+}
+.cid-rc0eFXOfGb .media-container-row .foot-menu {
+  list-style: none;
+  display: -webkit-flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+  -webkit-justify-content: center;
+  -webkit-flex-wrap: wrap;
+}
+.cid-rc0eFXOfGb .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-rc0eFXOfGb .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-rc0eFXOfGb .media-container-row .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+  -webkit-flex-wrap: wrap;
+}
+.cid-rc0eFXOfGb .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.cid-rc0eFXOfGb .media-container-row .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rc0eFXOfGb .media-container-row .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rc0eFXOfGb .media-container-row .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rc0eFXOfGb .media-container-row .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-rc0eFXOfGb .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-rc0eFXOfGb .media-container-row .row-copirayt p {
+  width: 100%;
+}
 .cid-qLBI89idrp .navbar {
   background: #efefef;
   transition: none;
@@ -1832,14 +1910,6 @@ body {
 .cid-qLBI89idrp .nav-link:hover,
 .cid-qLBI89idrp .dropdown-item:hover {
   color: #232323 !important;
-}
-.cid-qLBI8dm0H3 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #efefef;
-}
-.cid-qLBI8dm0H3 .media-container-row .mbr-text {
-  color: #232323;
 }
 .cid-qLAH4rc1yt .navbar {
   background: #efefef;
